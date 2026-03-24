@@ -6,8 +6,8 @@ This project aims to predict students’ grade classes (A, B, C, D) based on var
 
 The workflow includes:
 
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Feature engineering
-Model training and evaluation
-Deployment as an API
+1.Data cleaning and preprocessing
+2.Exploratory Data Analysis (EDA)
+3.Feature engineering
+4.Model training and evaluation
+5.Deployment as an API
