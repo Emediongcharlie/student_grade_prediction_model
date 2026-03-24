@@ -62,7 +62,7 @@ Missing values were identified and handled appropriately.
 ### Data Type Correction
 ```python
 df['Gender'] = df['Gender'].astype('category')
-
+```
 ### Binary Encoding
 
 ### Duplicate Removal
