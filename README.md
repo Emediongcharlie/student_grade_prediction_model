@@ -80,6 +80,7 @@ Done with Seaborn and Matplotlib
 - We had more female involved in extracurricular activities than male
 - There was a strong positive correlation between study hours and GPA
 - There was a strong negative correlation between absenses and GPA
+<img width="1242" height="393" alt="download" src="https://github.com/user-attachments/assets/2dcf5263-b74f-4e1a-b603-db1c0d3799f3" />
 
 ## Data Preprocessing
 
