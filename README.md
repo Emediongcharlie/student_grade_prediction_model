@@ -108,7 +108,7 @@ Confusion Matrix Insights:
 The model is deployed as a REST API for real-time predictions.
 ```python
 POST /predict
-
+```
 ### Example request
 ```JSON
 {
@@ -128,6 +128,7 @@ POST /predict
   "Absences": 2,
   "GPA": 3.5
 }
+```
 
 ### Example Response
 
@@ -135,6 +136,7 @@ POST /predict
 {
   "prediction": "A"
 }
+```
 
 ## Tech Stack
 
