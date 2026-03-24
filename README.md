@@ -56,6 +56,7 @@ Key preprocessing steps:
 ### Handling Missing Values
 ```python
 df.isnull().sum()
+```
 
 Missing values were identified and handled appropriately.
 
@@ -68,7 +69,7 @@ df['Gender'] = df['Gender'].astype('category')
 ### Duplicate Removal
 ```python
 df.drop_duplicates(inplace=True)
-
+```
 ## Exploratory Data Analysis
 Done with Seaborn and Matplotlib
 
